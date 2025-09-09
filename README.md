@@ -5,17 +5,10 @@
 
 ### 👨‍💻 About Me  
 - 💡 Passionate about creating **modern web applications** that are fast, scalable, and user-friendly.  
-- 🐞 Strong believer that **good debugging = good development** — because clean code starts with solved bugs.  
+- 🐞 Strong believer that **good debugging = good development**.  
 - 🌱 Currently learning more about **cloud technologies** and **real-time systems**.  
 - 🤝 Open to collaborating on **open-source projects** and **innovative startups**.  
 - 📫 Reach me at: **samuel.tannous174@gmail.com**
-
----
-
-### 💡 Debugging Motto  
-> “Debugging is like detective work:  
-> the bug is the crime, the code is the crime scene,  
-> and you are both the detective and the prime suspect.”  
 
 ---
 
@@ -47,10 +40,4 @@
 
 ### ⚡ Fun Fact  
 When I’m not coding, I’m probably:  
-- Debugging my own bugs 👀  
-- Exploring new frameworks I didn’t *need* but really *wanted*  
-- Or just re-running `console.log()` like it’s a therapy session 😅  
-
----
-
-✨ *Code is temporary, but clean solutions last forever.*  
+**Debugging my own bugs 👀**
