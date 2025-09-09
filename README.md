@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Samuel Tannous</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Debugging Enthusiast | Lifelong Learner</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-- 💡 I enjoy building **scalable web applications** and crafting **efficient solutions** to real-world problems.  
-- 🌱 Currently exploring **Cloud Computing (AWS)** and **Real-Time Systems**.  
-- 🛠 Skilled in **Full Stack Development**, from **frontend (React, Tailwind, TypeScript)** to **backend (Node.js, Express, Databases, APIs)**.  
-- 🤝 I’m open to collaborating on **exciting projects** and contributing to **open-source communities**.  
-- 📫 Reach me at: **samuel.tannous174@gmail.com**  
+- 💡 Passionate about creating **modern web applications** that are fast, scalable, and user-friendly.  
+- 🐞 Strong believer that **good debugging = good development** — because clean code starts with solved bugs.  
+- 🌱 Currently learning more about **cloud technologies** and **real-time systems**.  
+- 🤝 Open to collaborating on **open-source projects** and **innovative startups**.  
+- 📫 Reach me at: **samuel.tannous174@gmail.com**
+
+---
+
+### 💡 Debugging Motto  
+> “Debugging is like detective work:  
+> the bug is the crime, the code is the crime scene,  
+> and you are both the detective and the prime suspect.”  
 
 ---
 
@@ -21,22 +28,29 @@
 
 ---
 
-### 🛠 Languages and Tools  
+### 🛠 Languages & Tools  
 <p align="left"> 
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ---
 
 ### ⚡ Fun Fact  
-I believe **code is not just about solving problems, but about creating meaningful impact.** 🌍✨
+When I’m not coding, I’m probably:  
+- Debugging my own bugs 👀  
+- Exploring new frameworks I didn’t *need* but really *wanted*  
+- Or just re-running `console.log()` like it’s a therapy session 😅  
+
+---
+
+✨ *Code is temporary, but clean solutions last forever.*  
