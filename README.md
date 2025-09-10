@@ -7,9 +7,11 @@
 - 🧩 I know the fundamentals of Next.js and Remix.js, which are built on top of React.js.
 
 
-🛠️ Featured Project
+###🛠️ Featured Project
 
 🛍️ Recommendation System – ML-powered.
+
+
 
 🌍 Connect With Me
 <p align="left"> <a href="mailto:samuel.tannous174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/samuel-tannous" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/samueltannous174" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
