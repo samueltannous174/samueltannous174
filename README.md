@@ -7,7 +7,7 @@
 - 🧩 I know the fundamentals of Next.js and Remix.js, which are built on top of React.js.
 
 
-###🛠️ Featured Project
+### 🛠️ Featured Project
 
 🛍️ Recommendation System – ML-powered.
 
