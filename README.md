@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samuel Tannous</h1> <h3 align="center">Full Stack Developer | Lifelong Learner</h3>
 👨‍💻 About Me
 
-🧱 Passionate about writing efficient, reliable code using data structures like arrays, stacks, trees, and hash maps.
+### 👨‍💻 About Me
+- 🧱 I use data structures like arrays, stacks, trees, and hash maps to write efficient, reliable code and solve complex problems.  
+- 📱 Android mobile developer using Java, building intuitive and responsive user experiences.  
+- 🤖 I enjoy robotics, Arduino, and microcontroller programming—bringing hardware to life through code.  
+- 🧩 I know the fundamentals of Next.js and Remix.js, which are built on top of React.js.
 
-📱 Android developer using Java, building intuitive and responsive mobile experiences.
-
-🤖 Enthusiast in robotics, Arduino, and microcontroller programming—bringing hardware to life through code.
-
-🧩 Exploring modern web frameworks like Next.js and Remix.js, built on top of React.js.
 
 🛠️ Featured Project
 
