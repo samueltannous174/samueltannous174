@@ -25,7 +25,6 @@ Debugging my own bugs 👀
 
 
 
-### 🧠 Skills
 💻 Languages & Frameworks
 <p> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
