@@ -2,11 +2,10 @@
 <h3 align="center">Full Stack Developer | Lifelong Learner</h3>
 
 ### 👨‍💻 About Me
-- 💻 Full-stack developer experienced in building responsive, dynamic, and AI-powered web applications.  
-- 🧱 Skilled in data structures and algorithms to write efficient, reliable code and solve complex problems.  
-- 📱 Android developer with Java, creating intuitive and responsive mobile experiences.  
-- 🤖 Passionate about AI, machine learning, and robotics, including Arduino and microcontroller programming.  
-- 🧩 Familiar with modern web frameworks like React.js, Remix.js, Next.js, and backend technologies such as Express.js and FastAPI.
+- 💻 **Frontend Developer:** Experienced in building responsive and dynamic web applications using React.js, Remix.js, Next.js, Tailwind CSS, and CSS3.  
+- 🖥️ **Backend Developer:** Skilled in building AI-powered and scalable backend systems with Express.js, FastAPI, Python, Java, and database management (MySQL, MongoDB, PostgreSQL, Redis).  
+- 📱 **Mobile Development:** Android developer using Java, creating intuitive and responsive mobile experiences.  
+- 🧱 **Problem Solving:** Strong foundation in data structures and algorithms to write efficient and reliable code.
 
 ### 🛠️ Featured Projects
 - 🛍️ **E-commerce Recommendation System** – Real-time ML-powered product recommendation engine using React.js, FastAPI, and Kafka.  
