@@ -8,7 +8,7 @@
 - 🧱 **Problem Solving:** Strong foundation in data structures and algorithms to write efficient and reliable code.
 
 ### 🛠️ Featured Projects
-- 🛍️ **E-commerce Recommendation System** – Real-time ML-powered product recommendation engine using React.js, FastAPI, and Kafka.  
+- 🛍️ **E-commerce Recommendation System** – Real-time ML-powered product recommendation engine using React.js, FastAPI.  
 - 📝 **Blog Platform** – Full-featured blog with content management system, responsive design, and SEO-friendly routing.  
 - 🎓 **AI-Powered Learning Platform** – Personalized learning paths using React.js, Express.js, and OpenRouter (LLM APIs).
 
